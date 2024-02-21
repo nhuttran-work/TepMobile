@@ -1,0 +1,279 @@
+{
+  "Orders": [
+    {
+      "order": {
+        "orderID": "2350338-C6A3CPBHBEUFAE",
+        "driver": {
+          "name": "Phạm Trúc Lâm",
+          "mobileNumber": "+84 9247 1146 3",
+          "latitude": 0,
+          "longitude": 0,
+          "location": null,
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/myteksi/grab-id/profile_pic/1/-1/7HVHYFsxQw6NZDuhQvj3hMGfhrY=_2022/07/22_.jpg"
+        },
+        "eater": {
+          "name": "***",
+          "mobileNumber": "",
+          "comment": "cổng 3",
+          "address": {
+            "address": "Street D8, Saigon High Tech Park, P.Long Thạnh Mỹ, Tp.Thủ Đức, Hồ Chí Minh, 70000, Vietnam",
+            "keywords": "Jabil Vietnam Co.,LTD - Duong D8 Gate"
+          }
+        },
+        "itemInfo": {
+          "count": 4,
+          "items": [
+            {
+              "name": "Cookie Cream",
+              "quantity": 1,
+              "fare": {
+                "currencySymbol": "₫",
+                "priceDisplay": "49.000",
+                "originalItemPriceDisplay": "39.000",
+                "beforeAdjustedPriceDisplay": "39.000"
+              },
+              "comment": "",
+              "modifierGroups": [
+                {
+                  "modifierGroupID": "VNMOD20220125154337052173",
+                  "modifierGroupName": "Chọn size",
+                  "modifiers": [
+                    {
+                      "modifierID": "VNMOD20220125154337455096",
+                      "modifierName": "Size M",
+                      "priceDisplay": "10.000",
+                      "quantity": 1,
+                      "revampedPriceDisplay": "10.000",
+                      "editedStatus": 0
+                    }
+                  ]
+                }
+              ],
+              "discountInfo": null,
+              "itemID": "VNITE20220125154336181391",
+              "editedStatus": 0,
+              "weight": null,
+              "itemCode": "",
+              "specialItemType": "",
+              "soldByWeight": false,
+              "outOfStockInstruction": null,
+              "parentID": "",
+              "parentName": "",
+              "skuID": ""
+            },
+            {
+              "name": "Espresso sữa",
+              "quantity": 1,
+              "fare": {
+                "currencySymbol": "₫",
+                "priceDisplay": "35.000",
+                "originalItemPriceDisplay": "25.000",
+                "beforeAdjustedPriceDisplay": "25.000"
+              },
+              "comment": "",
+              "modifierGroups": [
+                {
+                  "modifierGroupID": "VNMOD20220125154337147618",
+                  "modifierGroupName": "Chọn size",
+                  "modifiers": [
+                    {
+                      "modifierID": "VNMOD20220125154337206711",
+                      "modifierName": "Size L",
+                      "priceDisplay": "10.000",
+                      "quantity": 1,
+                      "revampedPriceDisplay": "10.000",
+                      "editedStatus": 0
+                    }
+                  ]
+                }
+              ],
+              "discountInfo": null,
+              "itemID": "VNITE20220125154336506532",
+              "editedStatus": 0,
+              "weight": null,
+              "itemCode": "",
+              "specialItemType": "",
+              "soldByWeight": false,
+              "outOfStockInstruction": null,
+              "parentID": "",
+              "parentName": "",
+              "skuID": ""
+            },
+            {
+              "name": "Espresso sữa",
+              "quantity": 2,
+              "fare": {
+                "currencySymbol": "₫",
+                "priceDisplay": "50.000",
+                "originalItemPriceDisplay": "50.000",
+                "beforeAdjustedPriceDisplay": "50.000"
+              },
+              "comment": "",
+              "modifierGroups": [
+                {
+                  "modifierGroupID": "VNMOD20220125154337147618",
+                  "modifierGroupName": "Chọn size",
+                  "modifiers": [
+                    {
+                      "modifierID": "VNMOD20220125154337421236",
+                      "modifierName": "Size M",
+                      "priceDisplay": "0",
+                      "quantity": 1,
+                      "revampedPriceDisplay": "0",
+                      "editedStatus": 0
+                    }
+                  ]
+                }
+              ],
+              "discountInfo": null,
+              "itemID": "VNITE20220125154336506532",
+              "editedStatus": 0,
+              "weight": null,
+              "itemCode": "",
+              "specialItemType": "",
+              "soldByWeight": false,
+              "outOfStockInstruction": null,
+              "parentID": "",
+              "parentName": "",
+              "skuID": ""
+            }
+          ],
+          "merchantItems": null
+        },
+        "fare": {
+          "currencySymbol": "₫",
+          "totalInCent": 0,
+          "adjustmentByDriverInCent": 0,
+          "totalDisplay": "134.000",
+          "subTotalDisplay": "134.000",
+          "taxDisplay": "0",
+          "adjustmentByDriverDisplay": "",
+          "promotionDisplay": "7.000",
+          "deliveryFeeDisplay": "16.000",
+          "passengerTotalDisplay": "143.000",
+          "totalDiscountAmountDisplay": "",
+          "reducedPriceDisplay": "134.000",
+          "revampedSubtotalDisplay": "134.000",
+          "cancelledDisplay": "0",
+          "taxRate": "0.0000",
+          "merchantChargeDisplay": "",
+          "isIncludeMerchantChargeTax": false,
+          "subtotalIncludeMerchantCharge": "134.000",
+          "chargeFeeDescription": {
+            "en": "Restaurant packaging charge",
+            "id": "Biaya kemasan",
+            "ms": "Caj pembungkusan dari restoran",
+            "th": "ค่าบรรจุภัณฑ",
+            "vi": "Phí đồ gói mang về",
+            "zh": "商家包装费"
+          },
+          "smallOrderFeeDisplay": "0",
+          "serviceChargeFeeDisplay": "",
+          "serviceChargeFeeDescription": {
+            "en": "Service charge",
+            "id": "Biaya layanan",
+            "km": "ការគិតថ្លៃលើសេវាកម្ម",
+            "ms": "Caj Perkhidmatan",
+            "my": "ဝန်ဆောင်စရိတ်",
+            "th": "ค่าบริการ",
+            "vi": "Phí dịch vụ",
+            "zh": "服务费"
+          }
+        },
+        "times": {
+          "createdAt": "2023-12-07T01:43:48Z",
+          "deliveredAt": "2023-12-07T01:56:06Z",
+          "completedAt": "2023-12-07T02:08:46Z",
+          "expiredAt": "2023-12-07T01:48:48Z",
+          "acceptedAt": "2023-12-07T01:43:54Z",
+          "cancelledAt": null,
+          "readyAt": null,
+          "displayedAt": "2023-12-07T01:46:19Z",
+          "driverArriveRestoAt": null
+        },
+        "state": "COMPLETED",
+        "merchant": {
+          "ID": "5-CZMWBBKKVA2ETX"
+        },
+        "deliveryTaskpoolStatus": "COMPLETED",
+        "preparationTaskpoolStatus": "COMPLETED",
+        "cancelCode": 0,
+        "displayID": "GF-207",
+        "bookingCode": "A-5OSDT24WWHRG",
+        "paymentMethod": "Cash",
+        "acceptedViaCall": false,
+        "acceptedViaAA": true,
+        "acknowledgedForAA": false,
+        "qsrModelType": 0,
+        "hasPromo": false,
+        "receiptAdditionalInfo": {
+          "supportFeatureFlags": {
+            "showCashToCollect": false
+          },
+          "printedCount": 1
+        },
+        "allowComplete": false,
+        "isTakeawayOrder": false,
+        "orderLevelDiscounts": null,
+        "flags": {
+          "showReceiptEaterAddress": false,
+          "showForceCompleteButton": false,
+          "hideOrderDriverInfo": false,
+          "isPrintOrderRevampReceipt": true,
+          "isGrabInitiatedSplitOrder": false
+        },
+        "scheduledOrderInfo": null,
+        "isLargeOrder": false,
+        "isEditable": false,
+        "isOrderEdited": false,
+        "isOrderWithFriends": false,
+        "uneditableReason": 10,
+        "cutlery": 2,
+        "cancelBy": "",
+        "cancelRole": "",
+        "leadsGenData": {
+          "isDeliverByMex": false,
+          "isOrderValueLow": false,
+          "deliveryFee": "",
+          "timeLeftToEnableCompleteButton": 0,
+          "geAllocationStatus": 0,
+          "grabExpressDriver": null,
+          "paxDistanceToMex": 0
+        },
+        "isBusyModeOrder": false,
+        "busyModeOrderPickupTime": "2023-12-07T01:43:48.525800735Z",
+        "busyModeApproach": 0,
+        "payMerchant": false,
+        "cancelledMsg": "",
+        "orderFlags": 4035225279008868356,
+        "orderStatsFlags": 33,
+        "receiptFlags": 0,
+        "dineInInfo": null,
+        "chatroomInfo": {
+          "roomID": "f8f619c65aa797f45033d0fc218a3cdc",
+          "status": 0
+        },
+        "membershipID": "",
+        "mcorInfo": {
+          "supportMcor": false,
+          "isEditable": false,
+          "correctedOrderReadyAt": null,
+          "estimatedOrderReadyAt": "2023-12-07T01:55:11Z",
+          "driverCloseToPickingUp": false,
+          "maxOrderReadyAt": "2023-12-07T02:31:19Z"
+        },
+        "mexReimbursementInfo": null,
+        "displayHighlights": {
+          "highlightItemCount": false,
+          "missingItemIDs": null
+        },
+        "giftInfo": null,
+        "orderBookings": null,
+        "incidents": {
+          "hasError": false,
+          "data": []
+        }
+      }
+    }
+  ]
+}

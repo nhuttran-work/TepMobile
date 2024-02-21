@@ -1,0 +1,203 @@
+{
+  "Orders": [
+    {
+      "order": {
+        "orderID": "6258164-C6A2KAWGT223SA",
+        "driver": {
+          "name": "Trần Hữu Hùng",
+          "mobileNumber": "",
+          "latitude": 0,
+          "longitude": 0,
+          "location": null,
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/myteksi/grab-id/profile_pic/1/-1/PgPOoqW8T3yUdVkALblB7bKRNdY=_2023/10/26_.jpg"
+        },
+        "eater": {
+          "name": "***",
+          "mobileNumber": "",
+          "comment": "Nhờ anh shipper treo đồ ở móc trước cổng nhà giùm mình nha!",
+          "address": {
+            "address": "1 Lô H Kdc Park Riverside, KDC Park Riverside, P.Phú Hữu, Tp.Thủ Đức, Hồ Chí Minh, 70000, Vietnam (Nhà H1. Vừa qua cổng bảo vệ khu dân cư thì chạy đến đường thứ 4 bên tay phải thì quẹo.)",
+            "keywords": "1 Lot H - Park Riverside Residence"
+          }
+        },
+        "itemInfo": {
+          "count": 2,
+          "items": [
+            {
+              "name": "Cappuccino",
+              "quantity": 2,
+              "fare": {
+                "currencySymbol": "₫",
+                "priceDisplay": "110.000",
+                "originalItemPriceDisplay": "80.000",
+                "beforeAdjustedPriceDisplay": "80.000"
+              },
+              "comment": "Capuccino đá, ít ngọt",
+              "modifierGroups": [
+                {
+                  "modifierGroupID": "VNMOD20220125154337030775",
+                  "modifierGroupName": "Chọn size",
+                  "modifiers": [
+                    {
+                      "modifierID": "VNMOD20220125154337223594",
+                      "modifierName": "Size L",
+                      "priceDisplay": "15.000",
+                      "quantity": 1,
+                      "revampedPriceDisplay": "30.000",
+                      "editedStatus": 0
+                    }
+                  ]
+                }
+              ],
+              "discountInfo": null,
+              "itemID": "VNITE20220125154336378926",
+              "editedStatus": 0,
+              "weight": null,
+              "itemCode": "",
+              "specialItemType": "",
+              "soldByWeight": false,
+              "outOfStockInstruction": null,
+              "parentID": "",
+              "parentName": "",
+              "skuID": ""
+            }
+          ],
+          "merchantItems": null
+        },
+        "fare": {
+          "currencySymbol": "₫",
+          "totalInCent": 0,
+          "adjustmentByDriverInCent": 0,
+          "totalDisplay": "110.000",
+          "subTotalDisplay": "110.000",
+          "taxDisplay": "0",
+          "adjustmentByDriverDisplay": "",
+          "promotionDisplay": "40.000",
+          "deliveryFeeDisplay": "35.000",
+          "passengerTotalDisplay": "105.000",
+          "totalDiscountAmountDisplay": "",
+          "reducedPriceDisplay": "96.000",
+          "revampedSubtotalDisplay": "110.000",
+          "cancelledDisplay": "0",
+          "taxRate": "0.0000",
+          "merchantChargeDisplay": "",
+          "isIncludeMerchantChargeTax": false,
+          "subtotalIncludeMerchantCharge": "110.000",
+          "chargeFeeDescription": {
+            "en": "Restaurant packaging charge",
+            "id": "Biaya kemasan",
+            "ms": "Caj pembungkusan dari restoran",
+            "th": "ค่าบรรจุภัณฑ",
+            "vi": "Phí đồ gói mang về",
+            "zh": "商家包装费"
+          },
+          "smallOrderFeeDisplay": "0",
+          "serviceChargeFeeDisplay": "",
+          "serviceChargeFeeDescription": {
+            "en": "Service charge",
+            "id": "Biaya layanan",
+            "km": "ការគិតថ្លៃលើសេវាកម្ម",
+            "ms": "Caj Perkhidmatan",
+            "my": "ဝန်ဆောင်စရိတ်",
+            "th": "ค่าบริการ",
+            "vi": "Phí dịch vụ",
+            "zh": "服务费"
+          }
+        },
+        "times": {
+          "createdAt": "2023-12-06T07:37:47Z",
+          "deliveredAt": "2023-12-06T07:49:55Z",
+          "completedAt": "2023-12-06T08:12:42Z",
+          "expiredAt": "2023-12-06T07:42:47Z",
+          "acceptedAt": "2023-12-06T07:37:55Z",
+          "cancelledAt": null,
+          "readyAt": null,
+          "displayedAt": "2023-12-06T07:40:21Z",
+          "driverArriveRestoAt": null
+        },
+        "state": "COMPLETED",
+        "merchant": {
+          "ID": "5-CZMWBBKKVA2ETX"
+        },
+        "deliveryTaskpoolStatus": "COMPLETED",
+        "preparationTaskpoolStatus": "COMPLETED",
+        "cancelCode": 0,
+        "displayID": "GF-374",
+        "bookingCode": "A-5OPAFDUWWJSR",
+        "paymentMethod": "Cashless",
+        "acceptedViaCall": false,
+        "acceptedViaAA": true,
+        "acknowledgedForAA": false,
+        "qsrModelType": 0,
+        "hasPromo": false,
+        "receiptAdditionalInfo": {
+          "supportFeatureFlags": {
+            "showCashToCollect": false
+          },
+          "printedCount": 1
+        },
+        "allowComplete": false,
+        "isTakeawayOrder": false,
+        "orderLevelDiscounts": null,
+        "flags": {
+          "showReceiptEaterAddress": false,
+          "showForceCompleteButton": false,
+          "hideOrderDriverInfo": false,
+          "isPrintOrderRevampReceipt": true,
+          "isGrabInitiatedSplitOrder": false
+        },
+        "scheduledOrderInfo": null,
+        "isLargeOrder": false,
+        "isEditable": false,
+        "isOrderEdited": false,
+        "isOrderWithFriends": false,
+        "uneditableReason": 10,
+        "cutlery": 2,
+        "cancelBy": "",
+        "cancelRole": "",
+        "leadsGenData": {
+          "isDeliverByMex": false,
+          "isOrderValueLow": false,
+          "deliveryFee": "",
+          "timeLeftToEnableCompleteButton": 0,
+          "geAllocationStatus": 0,
+          "grabExpressDriver": null,
+          "paxDistanceToMex": 0
+        },
+        "isBusyModeOrder": false,
+        "busyModeOrderPickupTime": "2023-12-06T07:37:47.561321919Z",
+        "busyModeApproach": 0,
+        "payMerchant": false,
+        "cancelledMsg": "",
+        "orderFlags": 4035229677055383556,
+        "orderStatsFlags": 35,
+        "receiptFlags": 0,
+        "dineInInfo": null,
+        "chatroomInfo": {
+          "roomID": "eb7ced30285c0f01d8ffdcb30cd7822b",
+          "status": 0
+        },
+        "membershipID": "",
+        "mcorInfo": {
+          "supportMcor": false,
+          "isEditable": false,
+          "correctedOrderReadyAt": null,
+          "estimatedOrderReadyAt": "2023-12-06T07:49:19Z",
+          "driverCloseToPickingUp": false,
+          "maxOrderReadyAt": "2023-12-06T08:25:21Z"
+        },
+        "mexReimbursementInfo": null,
+        "displayHighlights": {
+          "highlightItemCount": false,
+          "missingItemIDs": null
+        },
+        "giftInfo": null,
+        "orderBookings": null,
+        "incidents": {
+          "hasError": false,
+          "data": []
+        }
+      }
+    }
+  ]
+}
